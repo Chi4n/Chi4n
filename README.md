@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋, soy Gian Franco Baeza</h1>- Actualmente estoy aprendiendo **javascript**- Todos mis proyectos están disponibles en [Pronto](Pronto)- Cómo comunicarse conmigo **gianb04@gmail.com**
+<h1 align="center">Hola 👋, soy Gian Franco Baeza</h1>
+- Actualmente estoy aprendiendo **javascript** 
+- Cómo comunicarse conmigo **gianb04@gmail.com**
 
 
 

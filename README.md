@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href=""><img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img></a> •
   <a href="https://twitter.com/lauragift_">Twitter</a>
 </p>
 

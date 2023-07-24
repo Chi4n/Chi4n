@@ -22,12 +22,12 @@ I really want to progress in this world and I am very excited to continue learni
 
       ⚡ Free Time: Train, Play games on the PC.
 
-
-
-<!-- code gif-->
-<a href="www.linkedin.com/in/gianbaeza"><img src="https://i.postimg.cc/MKfzQ85X/360-F-305126059-hi1-TK7-Rve-Uwx0-CT832-XKb-KVnf3a-Qvs-GS.jpg" alt="img"></img></a> • <
-
 <h2>Skills</h3>
+<img src="https://icons8.com/icon/20909/html-5" alt="img"></img>
+<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
+<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
+<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
+
 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 

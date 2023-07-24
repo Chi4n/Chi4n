@@ -22,12 +22,6 @@ I really want to progress in this world and I am very excited to continue learni
     </section>
 </body>
 
- 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-
 😊 I am currently looking for work.
 📚 I am currently learning...
 🤝 I'm looking to collaborate on projects.

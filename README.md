@@ -1,4 +1,19 @@
 <!-- Heading -->
+<head>
+    <title>Lista con emojis</title>
+    <style>
+        /* Estilos para dividir en dos columnas */
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 600px;
+            margin: 0 auto;
+        }
+        .column {
+            width: 48%;
+        }
+    </style>
+</head>
 <!-- Heading -->
 <h3 > Hi there! I'm Gian Franco Baeza</h3>
 
@@ -22,16 +37,27 @@ I really want to progress in this world and I am very excited to continue learni
     </section>
 </body>
 
-😊 I am currently looking for work.
-📚 I am currently learning...
-🤝 I'm looking to collaborate on projects.
-👍 Good presence
-🏢 Good development in work groups.
-📖 Willing to learn
-💼 Compromise and responsibility
-⏰ Punctuality
-🔄 Ease of adaptation
-⏱️ FULL TIME
+ <div class="container">
+        <div class="column">
+            <ul>
+                <li>😊 I am currently looking for work.</li>
+                <li>📚 I am currently learning...</li>
+                <li>🤝 I'm looking to collaborate on projects.</li>
+                <li>👍 Good presence</li>
+                <li>🏢 Good development in work groups.</li>
+            </ul>
+        </div>
+        <div class="column">
+            <ul>
+                <li>📖 Willing to learn</li>
+                <li>💼 Compromise and responsibility</li>
+                <li>⏰ Punctuality</li>
+                <li>🔄 Ease of adaptation</li>
+                <li>⏱️ FULL TIME</li>
+            </ul>
+        </div>
+    </div>
+
 
  <div>
    <h2>Contacto</h2>

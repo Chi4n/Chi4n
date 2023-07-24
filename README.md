@@ -6,11 +6,11 @@
         .container {
             display: flex;
             justify-content: space-between;
-            width: 600px;
+            width: 600 ;
             margin: 0 auto;
         }
         .column {
-            width: 48%;
+            width: 48;
         }
     </style>
 </head>

@@ -2,10 +2,6 @@
 <!-- Heading -->
 <h3 > Hi there! I'm Gian Franco Baeza</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/gianbaeza"><img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img></a> •

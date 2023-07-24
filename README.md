@@ -9,7 +9,7 @@ I really want to progress in this world and I am very excited to continue learni
       ⚡ Free Time: Train, Play games on the PC.
 
 <h2>Contacto</h2> 
-<img src="https://i.postimg.cc/d1RC2xYT/arrowleft-106662.png" alt="Flecha"></img>
+<img src="https://i.postimg.cc/6QcwCrPp/arrowleft-106662-1.png"></img>
  <section>
         <h2>Skills</h2>
         <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML"  display: inline-block;

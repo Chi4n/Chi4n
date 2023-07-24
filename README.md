@@ -25,7 +25,7 @@ I really want to progress in this world and I am very excited to continue learni
 
 
 <!-- code gif-->
-<img align="right" src="https://i.postimg.cc/8P4V2PZF/360-F-305126059-hi1-TK7-Rve-Uwx0-CT832-XKb-KVnf3a-Qvs-GS.jpg" style= 'border-radius: 20px;' />
+<img align="right" src="https://i.postimg.cc/MKfzQ85X/360-F-305126059-hi1-TK7-Rve-Uwx0-CT832-XKb-KVnf3a-Qvs-GS.jpg" />
 
 
 <h2>Skills</h3>

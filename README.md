@@ -25,15 +25,8 @@ I really want to progress in this world and I am very excited to continue learni
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="[./code.gif](https://i.postimg.cc/52mMM9pY/Web-Developer-Isometric.png)" width="500" height="320" />
 
-- 😄 My Pronouns: She/Her   
-
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
 
 <!-- About section: END -->
 

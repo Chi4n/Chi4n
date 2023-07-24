@@ -15,9 +15,13 @@
  <!-- About section -->
 
 ---
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨ I'm a frontend developer with a passion for making the web accessible to everyone. I am studying to become a full stack developer, and to be able to have both frontend and backend development focuses.
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+I love sharing my knowledge with others, working in a group and above all I prioritize the good relationship between my colleagues.
+I really want to progress in this world and I am very excited to continue learning and continue studying this profession.
+
+      ⚡ Free Time: Train, Play games on the PC.
+
 
 
 <!-- code gif-->

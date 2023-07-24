@@ -7,9 +7,6 @@ I love sharing my knowledge with others, working in a group and above all I prio
 I really want to progress in this world and I am very excited to continue learning and continue studying this profession.
 
       ⚡ Free Time: Train, Play games on the PC.
-
-<h2>Contacto</h2> 
-<img src="https://i.postimg.cc/6QcwCrPp/arrowleft-106662-1.png"></img>
  <section>
         <h2>Skills</h2>
         <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML"  display: inline-block;
@@ -21,7 +18,10 @@ I really want to progress in this world and I am very excited to continue learni
         <img src="https://i.postimg.cc/C5XJt2RL/icons8-react-native-96.png" alt="React Native"  display: inline-block;
             margin: 10px;>
     </section>
-</body>
+<h2>Contacto</h2> 
+<img src="https://i.postimg.cc/6QcwCrPp/arrowleft-106662-1.png"></img>
+
+
   
 <div class="container">
       <h2> Aptitudes </h2>

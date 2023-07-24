@@ -1,20 +1,3 @@
-<!-- Heading -->
-<head>
-    <title>Lista con emojis</title>
-    <style>
-        /* Estilos para dividir en dos columnas */
-        .container {
-            display: flex;
-            justify-content: space-between;
-            width: 600 ;
-            margin: 0 auto;
-        }
-        .column {
-            width: 48;
-        }
-    </style>
-</head>
-<!-- Heading -->
 <h3 > Hi there! I'm Gian Franco Baeza</h3>
 
 ---
@@ -37,7 +20,15 @@ I really want to progress in this world and I am very excited to continue learni
     </section>
 </body>
 
- <div class="container">
+---
+
+ <div>
+   <h2>Contacto</h2>
+   <----------
+ </div>
+
+
+  <div class="container">
         <div class="column">
             <ul>
                 <li>😊 I am currently looking for work.</li>
@@ -45,10 +36,6 @@ I really want to progress in this world and I am very excited to continue learni
                 <li>🤝 I'm looking to collaborate on projects.</li>
                 <li>👍 Good presence</li>
                 <li>🏢 Good development in work groups.</li>
-            </ul>
-        </div>
-        <div class="column">
-            <ul>
                 <li>📖 Willing to learn</li>
                 <li>💼 Compromise and responsibility</li>
                 <li>⏰ Punctuality</li>
@@ -57,10 +44,4 @@ I really want to progress in this world and I am very excited to continue learni
             </ul>
         </div>
     </div>
-
-
- <div>
-   <h2>Contacto</h2>
-   <----------
- </div>
 

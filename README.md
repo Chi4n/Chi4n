@@ -25,7 +25,7 @@ I really want to progress in this world and I am very excited to continue learni
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="[./code.gif](https://i.postimg.cc/52mMM9pY/Web-Developer-Isometric.png)" width="500" height="320" />
+<img align="right" alt="[GIF" src="[./code.gif](https://i.postimg.cc/52mMM9pY/Web-Developer-Isometric.png)" width="500" height="320](https://i.postimg.cc/8P4V2PZF/360-F-305126059-hi1-TK7-Rve-Uwx0-CT832-XKb-KVnf3a-Qvs-GS.jpg)" />
 
 
 <!-- About section: END -->

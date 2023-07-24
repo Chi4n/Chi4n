@@ -20,9 +20,8 @@ I really want to progress in this world and I am very excited to continue learni
     </section>
 </body>
 
---
-<h2>Contacto</h2>
-   <----------
+<h2>Contacto</h2> <img src="https://i.postimg.cc/D0bg3gkv/1491254395-returnbackredoarrow-82934.png" alt="Flecha"></img>
+  
 
 
 

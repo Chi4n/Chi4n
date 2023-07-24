@@ -23,10 +23,10 @@ I really want to progress in this world and I am very excited to continue learni
       ⚡ Free Time: Train, Play games on the PC.
 
 <h2>Skills</h3>
-<img src="https://icons8.com/icon/20909/html-5" alt="img"></img>
-<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
-<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
-<img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img>
+<img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="img"></img>
+<img src="https://i.postimg.cc/7ZgXsmww/icons8-css-96.png" alt="img"></img>
+<img src="https://i.postimg.cc/MTGDGwRp/icons8-javascript-96.png" alt="img"></img>
+<img src="https://i.postimg.cc/C5XJt2RL/icons8-react-native-96.png" alt="img"></img>
 
 
 

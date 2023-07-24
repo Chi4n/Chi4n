@@ -20,12 +20,10 @@ I really want to progress in this world and I am very excited to continue learni
     </section>
 </body>
 
----
-
- <div>
-   <h2>Contacto</h2>
+--
+<h2>Contacto</h2>
    <----------
- </div>
+
 
 
   <div class="container">

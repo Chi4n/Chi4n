@@ -22,10 +22,10 @@ I really want to progress in this world and I am very excited to continue learni
             margin: 10px;>
     </section>
 </body>
+---
   
-
-
-  <div class="container">
+<div class="container">
+      <h2> Aptitudes </h2>
         <div class="column">
             <ul>
                 <li>😊 I am currently looking for work.</li>

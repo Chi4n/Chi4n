@@ -1,5 +1,6 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
+<!-- Heading -->
+<h3 > Hi there! I'm Gian Franco Baeza</h3>
 
 <!-- Profile Views -->
 

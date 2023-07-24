@@ -23,16 +23,14 @@ I really want to progress in this world and I am very excited to continue learni
       ⚡ Free Time: Train, Play games on the PC.
  <section>
         <h2>Skills</h2>
-        <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML">
+        <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML"  display: inline-block;
+            margin: 10px; >
         <img src="https://i.postimg.cc/7ZgXsmww/icons8-css-96.png" alt="CSS">
         <img src="https://i.postimg.cc/MTGDGwRp/icons8-javascript-96.png" alt="JavaScript">
         <img src="https://i.postimg.cc/C5XJt2RL/icons8-react-native-96.png" alt="React Native">
     </section>
 </body>
 
-
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />

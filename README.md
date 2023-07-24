@@ -2,14 +2,6 @@
 <!-- Heading -->
 <h3 > Hi there! I'm Gian Franco Baeza</h3>
 
-
-<p align="center">
-  <a href="www.linkedin.com/in/gianbaeza"><img src="https://i.postimg.cc/90QXwRM7/icons8-linkedin-48.png" alt="img"></img></a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
-
- <!-- About section -->
-
 ---
 ✨ I'm a frontend developer with a passion for making the web accessible to everyone. I am studying to become a full stack developer, and to be able to have both frontend and backend development focuses.
 
@@ -36,12 +28,19 @@ I really want to progress in this world and I am very excited to continue learni
 </p>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😊 I am currently looking for work.
+📚 I am currently learning...
+🤝 I'm looking to collaborate on projects.
+👍 Good presence
+🏢 Good development in work groups.
+📖 Willing to learn
+💼 Compromise and responsibility
+⏰ Punctuality
+🔄 Ease of adaptation
+⏱️ FULL TIME
+
+ <div>
+   <h2>Contacto</h2>
+   <----------
+ </div>
+

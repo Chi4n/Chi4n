@@ -9,7 +9,7 @@ I really want to progress in this world and I am very excited to continue learni
       ⚡ Free Time: Train, Play games on the PC.
  <section>
         <h2>Languages and Tools</h2>
-        <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML"  display: inline-block;
+        <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML" height:50px display: inline-block;
             margin: 10px; >
         <img src="https://i.postimg.cc/7ZgXsmww/icons8-css-96.png" alt="CSS"  display: inline-block;
             margin: 10px;>
